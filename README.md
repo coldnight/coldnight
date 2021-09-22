@@ -8,11 +8,11 @@
 - 🌱 And learning Rust Macro System via [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop), and [here is my fork](https://github.com/coldnight/proc-macro-workshop)!
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 814 Contributions in the Year 2021
+> 🏆 818 Contributions in the Year 2021
  > 
-> 📦 57.6 kB Used in Github's Storage 
+> 📦 57.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,10 +32,10 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+Monday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
 Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Thursday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
+Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
 Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
 Saturday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
 Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.96%
@@ -87,5 +87,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/coldnight/coldnight/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
