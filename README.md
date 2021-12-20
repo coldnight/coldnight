@@ -8,7 +8,7 @@
 - 🌱 And learning Rust Macro System via [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop), and [here is my fork](https://github.com/coldnight/proc-macro-workshop)!
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,5 +89,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/coldnight/coldnight/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
