@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 📖 Books I'm reading❤️
+- 📖 I'm reading❤️
     + [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
     + [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
     + [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
