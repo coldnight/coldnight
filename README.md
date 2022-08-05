@@ -8,6 +8,7 @@
     + [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
     + [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
     + [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)
+    + [Principles](https://www.principles.com/)
     + [Of Human Bondage](https://en.wikipedia.org/wiki/Of_Human_Bondage)
     + [Walden](https://en.wikipedia.org/wiki/Walden)
     + [《沉默的大多数》](https://en.wikipedia.org/wiki/Silent_majority)
