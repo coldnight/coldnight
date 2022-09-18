@@ -23,7 +23,7 @@
     + [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C570%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C570%20hrs%2053%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -81,5 +81,5 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2022 20:44:06 UTC
+ Last Updated on 18/09/2022 20:44:47 UTC
 <!--END_SECTION:waka-->
