@@ -23,6 +23,8 @@
     + [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C524%20hrs%2053%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -78,5 +80,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:06:06 UTC
+ Last Updated on 07/08/2026 21:18:33 UTC
 <!--END_SECTION:waka-->
