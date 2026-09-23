@@ -52,13 +52,15 @@ Sunday                   274 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Other                    12 mins             ██████████████████░░░░░░░   70.06 % 
+tmux                     4 mins              ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Vim                      0 secs              █████████████████████████   100.00 % 
+Vim                      17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +82,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 23:12:38 UTC
+ Last Updated on 23/09/2026 23:07:37 UTC
 <!--END_SECTION:waka-->
