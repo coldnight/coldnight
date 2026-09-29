@@ -28,19 +28,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2811 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌆 Daytime                3105 commits        ███████████░░░░░░░░░░░░░░   45.78 % 
-🌃 Evening                855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌞 Morning                2814 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌆 Daytime                3105 commits        ███████████░░░░░░░░░░░░░░   45.76 % 
+🌃 Evening                855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1145 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Tuesday                  1329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Monday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Tuesday                  1329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 Wednesday                1048 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 1275 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Friday                   1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Thursday                 1275 commits        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 Saturday                 489 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Sunday                   274 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
@@ -52,37 +52,21 @@ Sunday                   274 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    28 mins             ███████████████░░░░░░░░░░   59.57 % 
-Python                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
-tmux                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Bash                     22 mins             ██████████████░░░░░░░░░░░   56.99 % 
+Other                    12 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
+tmux                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 
 🔥 Editors: 
-Vim                      48 mins             █████████████████████████   100.00 % 
+Vim                      40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (36.67%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 38,932 Input Tokens, 11,748 Output Tokens
-
-💵 $1.38 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -98,5 +82,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 23:18:23 UTC
+ Last Updated on 29/09/2026 00:33:04 UTC
 <!--END_SECTION:waka-->
